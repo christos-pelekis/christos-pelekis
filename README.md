@@ -4,7 +4,7 @@
   <li>🎓 University of Patras graduate with an <b>MSc in Computer Engineering and Informatics</b></li>
   <li>🌐 Aspiring web developer eager to kick-start my career in the world of software engineering</li>
   <li>📚 Practiced frontend web development as a <b>Software Engineer Intern @ Citrix Greece</b></li>
-  <li>✏️ I am currently learning <b>.NET Core, C#, ASP.NET Core, and Entity Framework</b></li>
+  <li>✏️ I am currently learning <b>.NET Core, C#, ASP.NET Core, and Entity Framework Core</b></li>
   <li>🎲 My hobbies include working out, going to the movies, and unleashing my ruthless strategic genius during epic board game battles with friends</li>
 </ul>
 
@@ -29,5 +29,5 @@
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET Core">
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server">
-  <img src="https://img.shields.io/badge/Entity%20Framework-FF4088?style=for-the-badge&logo=.net&logoColor=white" alt="Entity Framework">
+  <img src="https://img.shields.io/badge/Entity%20Framework-FF4088?style=for-the-badge&logo=.net&logoColor=white" alt="Entity Framework Core">
 </div
