@@ -1,7 +1,7 @@
 ## Hi there! 👋 I'm Chris
 
-🚀 **Full-Stack Developer | Frontend Enthusiast**  
-💼 **Technology Consultant at EY**
+🚀 **Full-Stack Web Developer | Frontend Enthusiast**  
+💼 **Technology Consultant @ EY**
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,redux,materialui,cs,dotnet)](https://skillicons.dev)
 
@@ -16,14 +16,14 @@ I enjoy **building reusable components**, optimizing UI performance, and ensurin
 
 ### 🛠️ Tech Stack
 - **Frontend**: JavaScript (ES6+), React, Redux Toolkit, Material UI, Storybook
-- **Backend**: C#, .NET Core 6, Entity Framework Core, NUnit
-- **Databases**: SQL Server, MySQL, MongoDB
-- **DevOps & Tools**: Git, GitHub Actions, GitLab CI/CD, Docker, Azure Boards, Jira
+- **Backend**: C#, .NET Core, Entity Framework Core, NUnit
+- **Databases**: SQL Server, MongoDB
+- **Tools**: Git, Docker, Azure Boards, Jira
 
 ---
 
 ### 🌱 What I’m Learning
-Currently exploring **DevOps** and diving deeper into **Azure** and **containerization** with **Docker**. I’m also interested in improving my backend skills and exploring **cloud-native architectures**.
+Currently learning **TypeScript** and exploring **Test-Driven Development (TDD)** using **Jest** and **React Testing Library**. I'm aiming to strengthen my frontend testing skills while improving code reliability and maintainability. I’m also interested in improving my backend skills and exploring  cloud-native architectures.
 
 ---
 
