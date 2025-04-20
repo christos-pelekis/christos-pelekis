@@ -1,32 +1,15 @@
-## Hi there! 👋 I'm Chris
+## Hi there, I'm Chris 👋
 
-🚀 **Full-Stack Web Developer | Frontend Enthusiast**  
-💼 **Technology Consultant @ EY**
+### About Me
+I'm a Software Engineer from Greece with a Master's degree in Computer Engineering and Informatics. Currently working as a Technology Consultant at EY, where I develop an amazing workforce upskilling and reskilling web platform.
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,redux,materialui,cs,dotnet)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,cs,dotnet)](https://skillicons.dev)
 
----
+### ⚡ When I'm not coding
+- Hitting the gym 💪
+- Watching TV shows 📺
+- Playing board games with friends 🎲
+- Reading books 📚
 
-### 👨‍💻 About Me
-I'm a passionate full-stack web developer with over 1.5 years of experience, specializing in **JavaScript** and **React**. My journey began as a frontend developer, but I’ve since expanded my skills into backend development with **C#** and **.NET Core 6**. Currently, I’m working at **EY**, contributing to a cutting-edge web platform for workforce upskilling and reskilling.
-
-I enjoy **building reusable components**, optimizing UI performance, and ensuring smooth user experiences. I’ve worked across the full stack, delivering features end-to-end — from frontend development to API integration and database design. I'm always eager to learn new technologies and grow as a developer!
-
----
-
-### 🛠️ Tech Stack
-- **Frontend**: JavaScript (ES6+), React, Redux Toolkit, Material UI, Storybook
-- **Backend**: C#, .NET Core, Entity Framework Core, NUnit
-- **Databases**: SQL Server, MongoDB
-- **Tools**: Git, Docker, Azure Boards, Jira
-
----
-
-### 🌱 What I’m Learning
-Currently learning **TypeScript** and exploring **Test-Driven Development (TDD)** using **Jest** and **React Testing Library**. I'm aiming to strengthen my frontend testing skills while improving code reliability and maintainability. I’m also interested in improving my backend skills and exploring  cloud-native architectures.
-
----
-
-### 📫 Let’s Connect!
-- [LinkedIn](https://www.linkedin.com/in/christospelekis/)
-- [Email](mailto:christos.pelekis1@gmail.com)
+### 📫 How to reach me
+[![My Contact Info](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/christospelekis/)
