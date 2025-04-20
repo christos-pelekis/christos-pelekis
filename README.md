@@ -12,4 +12,4 @@ I'm a Software Engineer from Greece with a Master's degree in Computer Engineeri
 - Reading books 📚
 
 ### 📫 How to reach me
-[![My Contact Info](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/christospelekis/)
+- [LinkedIn](https://www.linkedin.com/in/christospelekis/)
